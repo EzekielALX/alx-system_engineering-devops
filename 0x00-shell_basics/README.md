@@ -1,1 +1,1 @@
-Display current directory contents
+ a script that changes the working directory to the previous one.
