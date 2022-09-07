@@ -1,1 +1,3 @@
-Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
+[master 470d252] Every addition to true knowledge is an addition to human power
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100755 0x03-shell_variables_expansions/8-true_knowledge
